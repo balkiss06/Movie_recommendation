@@ -1,3 +1,12 @@
+# MOVIE RECOMMENDATION SYSTEM 🎬
+### Machine learning project
+## *Author: Balkis Joudi* 
+**LinkedIn:** https://www.linkedin.com/in/balkis-joudi-332076328/
+
+---
+---
+
+
 ## **I/OBJECTIF:** <br>
 Centaines de platformes de streaming, milliers de films et millions de séries.... On trouve souvent des difficultés à choisir des films adaptés à nos gouts, et les méthodes traditionnelles de recherche, au lieu de nous aider, aggravent ce problème. D’ou, il est temps de concevoir un système de recommendation des films basé sur le machine learning, capable d'analyser les préférences de l’utilisateur et lui suggérer des films pertinents.
 
