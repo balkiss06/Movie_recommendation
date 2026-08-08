@@ -65,6 +65,3 @@ F1@10=3,87%: C’est l’équilibre entre la précision et le rappel.
 Ce projet a montré que le Machine Learning ne se limite pas à un domaine spécifique et une application singulaire. C’est une technologie polyvalente capable de répondre à des problématiques variées meme celles de divertiisement. Et on a prouvé, grace à ce projet, qu’il est capable, en suivant un démarche d’instructions précis, d’améliorer l’expérience de l’utilisateur des platformes de streaming et faciliter la découverte de nouveaux films et séries correspondant à ses goûts. <br>
         Toutefois, ce modèle peut etre amélioré de plus en intégrant davantage d'informations sur les utilisateurs, en utilisant des techniques plus avancées telles que les modèles basés sur le Deep Learning afin de fournir des recommandations encore plus précises et personnalisées.
 
-## Author
-**Balkis Joudi**
--LinkedIn: https://www.linkedin.com/in/balkis-joudi-332076328/
